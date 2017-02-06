@@ -19,10 +19,6 @@ body {
     color: rgba(0, 0, 0, 0.5);
 }
 
-.form-group {
-
-}
-
 .fa-twitter {
     color: #0084b4;
 }
@@ -42,4 +38,37 @@ body {
 
 .footer-p {
     text-align: center;
+}
+
+#overflowOK {
+    overflow: inherit !important;
+}
+
+
+/*LEFT INTRO BLOCK*/
+
+.panel-heading {
+    padding: 0;
+    z-index: 0;
+}
+
+.panel-header a:hover {
+    text-decoration: underline;
+}
+
+.panel-body {
+    padding: 4px !important;
+}
+
+.avatar-img {
+    width: inherit;
+}
+
+.avatar-left {
+    z-index: 100;
+    margin: -40px 0 0 8px;
+    border: 2px solid #fff;
+    vertical-align: bottom;
+    display: inline-block;
+    border-radius: 6px;
 }

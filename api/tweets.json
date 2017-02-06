@@ -1,0 +1,51 @@
+[
+  {
+        "name": "Ryhad",
+        "pseudo": "@Gryhades_et_BBQ",
+        "time" : "Jan 30",
+        "img" : "/img/ryhad.jpg",
+        "tweet": "J'ai pas linké ma librairie Angular... #KillMe"
+    },
+    {
+        "name": "Valentin",
+        "pseudo": "@VAL_10",
+        "time" : "Jan 30",
+        "img" : "/img/val.jpg",
+        "tweet": "J'aurais vraiment dû faire mon exo Twitter ce week-end !"
+    },
+    {
+        "name": "César",
+        "pseudo": "@johnny_en_plein_doute",
+        "time" : "Jan 30",
+        "img" : "/img/cesar.jpg",
+        "tweet": "Moi je fais l'exo avec Angular 1 parce que je suis DINGUE"
+    },
+    {
+        "name": "Élise",
+        "pseudo": "@Eliz_2_MARS",
+        "time" : "Jan 29",
+        "img" : "/img/elise.jpg",
+        "tweet": "Refaite, avec mon casque je n'entends pas @Gryhades_et_BBQ #calme #peace"
+    },
+    {
+        "name": "Alexandradra",
+        "pseudo": "@Alexandradra_",
+        "time" : "Jan 28",
+        "img" : "/img/avatar.jpg",
+        "tweet": "C'EST MOI LA BOSS DES ROUTEURS UI ANGULAR !!!!!"
+    },
+    {
+        "name": "Okba",
+        "pseudo": "@OkbaHamidimoinsune",
+        "time" : "Jan 27",
+        "img" : "/img/okba.png",
+        "tweet": "666 lol b C++"
+    },
+    {
+        "name": "Michelle Obama",
+        "pseudo": "@MichelleObama",
+        "time" : "Jan 25",
+        "img" : "/img/michele.jpg",
+        "tweet": "@Alexandradra_ est une vraie source d'inspiration pour moi, elle m'a tout appris"
+    }
+]
